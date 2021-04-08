@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "606f0c569c5eaf030c4fac10"
+  },
+  "advisors": [
+    {
+      "$oid": "606f0b839c5eaf030c4fac0b"
+    },
+    {
+      "$oid": "606f0b889c5eaf030c4fac0c"
+    }
+  ],
+  "bookings": [
+    {
+      "$oid": "606f0e119c5eaf030c4fac14"
+    },
+    {
+      "$oid": "606f0e479c5eaf030c4fac15"
+    }
+  ],
+  "name": "bharath",
+  "email": "bharath@gmail.com",
+  "password": "$2a$12$BsC3BPcudJA4/XQ5o2z8rugjqrDueIpJva.ld.PrTA2RJkKfuFJLq"
+},{
+  "_id": {
+    "$oid": "606f0caa9c5eaf030c4fac11"
+  },
+  "advisors": [
+    {
+      "$oid": "606f0b839c5eaf030c4fac0b"
+    },
+    {
+      "$oid": "606f0b889c5eaf030c4fac0c"
+    },
+    {
+      "$oid": "606f0b969c5eaf030c4fac0e"
+    }
+  ],
+  "bookings": [
+    {
+      "$oid": "606f0e119c5eaf030c4fac16"
+    },
+    {
+      "$oid": "606f0e479c5eaf030c4fac17"
+    },
+    {
+      "$oid": "606f0e509c5eaf030c4fac18"
+    }
+  ],
+  "name": "bharathk",
+  "email": "bharathk@gmail.com",
+  "password": "$2a$12$MMUHpQ0BJtE1dD7sG2DmOu.Bw8I2Qo2u4cSA488iB5VYJYojTzo2q"
+},{
+  "_id": {
+    "$oid": "606f0cc39c5eaf030c4fac12"
+  },
+  "advisors": [
+    {
+      "$oid": "606f0b839c5eaf030c4fac0b"
+    },
+    {
+      "$oid": "606f0b969c5eaf030c4fac0e"
+    }
+  ],
+  "bookings": [
+    {
+      "$oid": "606f0e719c5eaf030c4fac19"
+    },
+    {
+      "$oid": "606f0e789c5eaf030c4fac1a"
+    }
+  ],
+  "name": "appu",
+  "email": "appu@gmail.com",
+  "password": "$2a$12$Ek8w4EvlSOSaYtVw6JWZrePNqFHjB.BLGYUcD4S7RjzzYnoEkGwy."
+},{
+  "_id": {
+    "$oid": "606f0ce89c5eaf030c4fac13"
+  },
+  "advisors": [
+    {
+      "$oid": "606f0b9f9c5eaf030c4fac0f"
+    },
+    {
+      "$oid": "606f0b8f9c5eaf030c4fac0d"
+    }
+  ],
+  "bookings": [
+    {
+      "$oid": "606f1350022d7105eca88ce1"
+    },
+    {
+      "$oid": "606f13a2022d7105eca88ce2"
+    }
+  ],
+  "name": "bk",
+  "email": "bk@gmail.com",
+  "password": "$2a$12$0IVyhaD4g7s4ldh5yroxnuCWf2qvcfXR.6yR1CT/nMJh3ypBPmuyC"
+}]
